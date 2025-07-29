@@ -22,5 +22,5 @@ NP problems (nondeterministic polynomial time) are a class of computational prob
 
 Clone the repository:
    ```bash
-   git clone https://github.com/your-username/np-problem-solvers.git
+   git clone https://github.com/Arts-HCS/np-problem-solvers.git
    cd np-problem-solvers
